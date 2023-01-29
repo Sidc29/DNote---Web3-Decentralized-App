@@ -1,6 +1,6 @@
-# notekeeper
+# DNote - Web3 Decentralized App
 
-Welcome to your new notekeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+The Web3 Decentralized Note Keeping App is a cutting-edge, blockchain-powered solution for secure and decentralized note-taking. It is designed to provide users with a simple and user-friendly interface for creating and storing notes, while at the same time leveraging the power and security of the decentralized Web3 ecosystem. The app is built on the ICP blockchain, allowing for notes to be stored in a decentralized, tamper-proof manner. This means that notes are stored on a network of nodes, rather than on a central server, providing enhanced security and privacy.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
